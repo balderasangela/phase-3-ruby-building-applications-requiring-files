@@ -1,5 +1,6 @@
 # Something is missing here
 require_relative './plant'
+require_relative '../config/environment'
 
 
 class Garden
